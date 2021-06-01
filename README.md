@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/naghsh-borokero.cdr_animated.svg">
+  <img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/naghsh-borokero.cdr_animated.svg" width="400" height="200">
 </p>
 
 # Borokero ;) Open Source Platform for Ever
