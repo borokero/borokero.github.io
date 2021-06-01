@@ -96,8 +96,7 @@ However, you might find a security issue: in that case, email borokero.platform@
 
 Use the [issue tracker](https://github.com/borokero/borokero/issues) for bugs.
 [Tweet](http://twitter.com/iokloud) us for any idea that can improve the project.
-Any questions? Technical question? Please ask the community
-<iframe src="https://discord.com/widget?id=834317021419274252&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+Any questions? Technical question? Please ask the community [Borokero Discord Community](https://discord.gg/fZjMUasuNA)
 
 
 ## Contribution
