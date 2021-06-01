@@ -1,4 +1,4 @@
-# Borokero ;) Open Source Platform for Ever
+# Borokero ;) Open Source Microservice Platform
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/naghsh-borokero.cdr_animated.svg" width="400">
@@ -10,7 +10,8 @@
 #### Open Source Back End for IoT, Web, Apps and Mobile
 
 Borokero will enable you to put your IoT, Mobile, Apps or Web API services on your own server simply and painless in one command. It supports the popular MQTT protocol in sync with HTTP. It is in javascript and authenticate and authorize your device list so broker perform authentication by your entry data in oauth server like Keycloak.
-Borokero is under development so it should work. It need time to release stable version.
+Borokero is an open-source solution that includes a scalable server and a multiprotocol API.
+Borokero is opensource forever under development so it should work. It need time to release stable version.
 
 
 ## Features
@@ -95,6 +96,11 @@ However, you might find a security issue: in that case, email borokero.platform@
 
 Use the [issue tracker](https://github.com/borokero/borokero/issues) for bugs.
 [Tweet](http://twitter.com/iokloud) us for any idea that can improve the project.
+Any questions? Technical question? Please ask the community [Borokero Discord Community](https://discord.gg/fZjMUasuNA)
+
+
+## Contribution
+At Borokero we are strong believers in community, transparency, technical excellence & innovation. That is why we made Borokero Open-Source and actively contribute to, and depend on, this ecosystem.
 
 
 ## Links
