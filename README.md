@@ -1,8 +1,8 @@
+# Borokero ;) Open Source Platform for Ever
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/naghsh-borokero.cdr_animated.svg" width="400">
 </p>
-
-# Borokero ;) Open Source Platform for Ever
 
 ## About
 
