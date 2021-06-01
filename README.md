@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/borokero_iot_platform.png">
 </p>
 
-# Borokero IoT Platform
+# Borokero ;) Open Source Platform for Ever
 
 ## About
 
@@ -36,7 +36,7 @@ sudo curl -o- https://raw.githubusercontent.com/borokero/borokero/master/install
 
 ### Using Git
 
-Download Borokero IoT Platform git
+Download Borokero Platform git
 
 ```bash
 git clone https://github.com/borokero/borokero-docker-compose
