@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/borokero_iot_platform.png">
+  <img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/naghsh-borokero.cdr_animated.svg">
 </p>
 
 # Borokero ;) Open Source Platform for Ever
