@@ -8,7 +8,7 @@
 
 
 #### Open Source Back End for IoT, Web, Apps and Mobile
-
+<img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/iok-logo.svg" width="30">
 Borokero will enable you to put your IoT, Mobile, Apps or Web API services on your own server simply and painless in one command. It supports the popular MQTT protocol in sync with HTTP. It is in javascript and authenticate and authorize your device list so broker perform authentication by your entry data in oauth server like Keycloak.
 Borokero is an open-source solution that includes a scalable server and a multiprotocol API.
 Borokero is opensource forever under development so it should work. It need time to release stable version.
@@ -24,7 +24,7 @@ Borokero is opensource forever under development so it should work. It need time
 
 ## Installation
 
-Borokero IoT Platform is installed by two methods. Firstly besure docker and docker-compose is installed.
+<img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/iok-logo.svg" width="30"> Borokero IoT Platform is installed by two methods. Firstly besure docker and docker-compose is installed.
 
 ### Using Shell Script
 
@@ -55,7 +55,7 @@ You can find a step by step <a href="https://github.com/borokero/borokero/wiki/T
 
 ### Development
 
-Borokero is composed by different microservices.
+<img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/iok-logo.svg" width="30"> Borokero is composed by different microservices.
 Follow the installation guidelines for each of them.
 
 | Microservice  | Description |
@@ -71,7 +71,7 @@ Follow the installation guidelines for each of them.
 
 
 
-#### Development Environment Variable
+### Development Environment Variable
 
 During deployment, every microservice needs to be set to the following environment variables. You can customize .env file in every repository.
 
@@ -79,7 +79,7 @@ During deployment, every microservice needs to be set to the following environme
 ### Learn more
 
 You can find a test version of Borokero IoT Platform at borokero.iokloud.com as soon as possible.
-
+<img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/iok-cloud-logo.svg" width="30">
 If you find Borokero useful, consider supporting the project by buying a support package
 from [me](http://twitter.com/iokloud) by writing an email to borokero.platform@gmail.com
 
@@ -100,7 +100,7 @@ Any questions? Technical question? Please ask the community [Borokero Discord Co
 
 
 ## Contribution
-At Borokero we are strong believers in community, transparency, technical excellence & innovation. That is why we made Borokero Open-Source and actively contribute to, and depend on, this ecosystem.
+<img src="https://raw.githubusercontent.com/borokero/borokero-docs/master/images/iok-logo.svg" width="30"> At Borokero we are strong believers in community, transparency, technical excellence & innovation. That is why we made Borokero Open-Source and actively contribute to, and depend on, this ecosystem.
 
 
 ## Links
